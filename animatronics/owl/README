@@ -1,3 +1,17 @@
 /* The Animatronic Snowy Owl */
 
 The animatronic snowy owl is a project introducing servos and multiple Arduinos working together to move a life sized model of an owl in a cage, as well as react from information received by sensors. 
+
+/* Skull */
+
+The skull is sculpted and cast in polyuretan resin in four parts:
+* Main skull
+* 2x eye sockets
+* Lower jaw
+
+The skull will contain 3 servos of type Master Mikro-Servo S308, size 16mm x 14 mm x	8 mm. This servo was chosen due to its tiny size and their purpose will be to control each eye separately as well as the jaws. Owls have no ability to move their eyes, so the eye servos job will be to open the eyes. When the servos return to neutral, springs inside the head will close the eyes.
+
+/* Neck */
+
+The neck will use a so-called 'tentacle mechanism' with disks around a spring core, moved by servos pulling on cables.
+
